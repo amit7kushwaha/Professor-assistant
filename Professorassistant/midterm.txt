@@ -1,0 +1,60 @@
+What is the functional key to display save-as box?
+F12
+
+Which is most common tool used to restrict access to computer system?
+Passwords
+
+SMPS stands for__?
+Switched Mode Power Supply
+
+Name of 1st electronic computer?
+ENIAC
+
+Scientific Name of Computer?
+Sillico sapiens
+
+Who developed the first electronic computer?
+J.V. Atansoff
+
+The ability to recover and read deleted or damaged files from a criminal's computer is an example of a law enforcement speciality called__?
+Computer Forensics
+
+COBOL is an acronym for__?
+Common Business Oriented Language
+
+What is the extension type of the excel 2007 files?
+.xlsx
+
+A fault in a computer program which prevents it from working correctly is known as__?
+Bug
+
+A DVD is an example of an__?
+Optical Disc
+
+What is the name of an application program that gathers user information and sends it to someone through the Internet?
+Spybot
+
+In a computer, most processing takes place in__?
+CPU
+
+MICR stands for__?
+Magnetic Ink Character Reader
+
+DOS stands for__?
+Disk Operating System
+
+What is the meaning of OSI, in terms of computers ?
+Open system Interconnection
+
+What is the software frequently utilized by end users called (like Word, PowerPoint)?
+Application Software
+
+What is FORTRAN?
+Formula Translation
+
+What do we use to change the appearance and positioning of text document in MS Word?
+Formatting
+
+The common name for the crime of stealing passwords is__?
+Spoofing
+
